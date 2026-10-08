@@ -26,7 +26,7 @@ Four A/B tests, four funnel metrics each (16 comparisons), Z-test for proportion
 ## 🔗 Project Links
 - [View Interactive Tableau Dashboard](https://public.tableau.com/views/ABTestAnalysis_17504420018160/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Statistical analysis (Jupyter Notebook and results)](https://github.com/stanislav-tsapenko/ab-test-ecommerce-analysis)
-- 
+
 ## 📸 Visualization
 
 <img width="625" height="866" alt="image" src="https://github.com/user-attachments/assets/9a882c91-7e17-4cfd-9c49-5d70f8beb1ee" />
