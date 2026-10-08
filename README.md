@@ -1,4 +1,4 @@
-# AB Test Analysis & Statistical Evaluation
+# AB Test Ecommerce Analysis 
 
 ## 📋 Project Overview
 This project focuses on evaluating the results of A/B tests to optimize e-commerce user conversion funnels. By combining statistical rigor with interactive data visualization, I identified which test variations led to statistically significant improvements in user behavior and identified "noise" in the data.
